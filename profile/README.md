@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="ybigta-logo" width="400" />
+<img src="/profile/logo.png" alt="ybigta-logo" width="400" />
 
 # `YBGITA`
 
