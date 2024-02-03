@@ -2,7 +2,7 @@
 
 <img src="/profile/logo.png" alt="ybigta-logo" width="400" />
 
-# `YBGITA`
+# `YBIGTA`
 
 **Data Engineering •**
 **Data Science •**
