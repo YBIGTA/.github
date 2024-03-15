@@ -19,7 +19,7 @@
 <br />
 </div>
 
-## [24' Feb] 신입기수 프로젝트
+## ['24 Feb] 신입기수 프로젝트
 <div align="center">
 <br />
 
