@@ -19,7 +19,7 @@
 <br />
 </div>
 
-## ['24 Feb] 신입기수 프로젝트
+## 신입기수 프로젝트
 <div align="center">
 <br />
 
@@ -43,5 +43,17 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-what-the-food&show_owner=true&theme=transparent" alt="YBIGTA/24th-project-what-the-food" width="45%" hspace="2%" /></a>
 
 <img width="45%" hspace="2%" />
+
+</div>
+
+## DE팀 프로젝트
+<div align="center">
+<br />
+
+<a href="https://github.com/YBIGTA/24th-de-highlighter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-highlighter&show_owner=true&theme=transparent" alt="YBIGTA/24th-de-highlighter" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/24th-de-juga">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-juga&show_owner=true&theme=transparent" alt="YBIGTA/24th-de-juga" width="45%" hspace="2%" /></a>
 
 </div>
