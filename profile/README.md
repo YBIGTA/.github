@@ -16,45 +16,55 @@
 [**Instagram**](https://instagram.com/yonsei_ybigta) •
 [**YouTube**](https://www.youtube.com/@ybigta7189)
 
-<br />
 </div>
 
-## DE팀 프로젝트
-<div align="center">
+<div>
 <br />
+<br />
+
+<h2 align="center">24-1 정규학기 활동</h2>
+
+### Data Analytics
+
+<a href="https://github.com/YBIGTA/24th-da-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-da-projects&show_owner=false&theme=transparent" alt="YBIGTA/24th-da-projects" width="45%" hspace="2%" /></a>
+
+### Data Engineering
 
 <a href="https://github.com/YBIGTA/24th-de-highlighter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-highlighter&show_owner=true&theme=transparent" alt="YBIGTA/24th-de-highlighter" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-highlighter&show_owner=false&theme=transparent" alt="YBIGTA/24th-de-highlighter" width="45%" hspace="2%" /></a>
 
 <a href="https://github.com/YBIGTA/24th-de-juga">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-juga&show_owner=true&theme=transparent" alt="YBIGTA/24th-de-juga" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-juga&show_owner=false&theme=transparent" alt="YBIGTA/24th-de-juga" width="45%" hspace="2%" /></a>
 
+<br />
 </div>
 
-## 신입기수 프로젝트
-<div align="center">
+<div>
+<br />
+<br />
+
+<h2 align="center">겨울방학 신입기수 프로젝트</h2>
 <br />
 
 <a href="https://github.com/YBIGTA/24th-project-mbti-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-mbti-prediction&show_owner=true&theme=transparent" alt="YBIGTA/24th-project-mbti-prediction" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-mbti-prediction&show_owner=false&theme=transparent" alt="YBIGTA/24th-project-mbti-prediction" width="45%" hspace="2%" /></a>
 
 <a href="https://github.com/YBIGTA/24th-project-playlist-recommendation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-playlist-recommendation&show_owner=true&theme=transparent" alt="YBIGTA/24th-project-playlist-recommendation" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-playlist-recommendation&show_owner=false&theme=transparent" alt="YBIGTA/24th-project-playlist-recommendation" width="45%" hspace="2%" /></a>
 
 <p></p>
 
 <a href="https://github.com/YBIGTA/24th-project-demystifying-wall-street">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-demystifying-wall-street&show_owner=true&theme=transparent" alt="YBIGTA/24th-project-demystifying-wall-street" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-demystifying-wall-street&show_owner=false&theme=transparent" alt="YBIGTA/24th-project-demystifying-wall-street" width="45%" hspace="2%" /></a>
 
 <a href="https://github.com/YBIGTA/24th-project-jeju-energy-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-jeju-energy-prediction&show_owner=true&theme=transparent" alt="YBIGTA/24th-project-jeju-energy-prediction" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-jeju-energy-prediction&show_owner=false&theme=transparent" alt="YBIGTA/24th-project-jeju-energy-prediction" width="45%" hspace="2%" /></a>
 
 <p></p>
 
 <a href="https://github.com/YBIGTA/24th-project-what-the-food">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-what-the-food&show_owner=true&theme=transparent" alt="YBIGTA/24th-project-what-the-food" width="45%" hspace="2%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-what-the-food&show_owner=false&theme=transparent" alt="YBIGTA/24th-project-what-the-food" width="45%" hspace="2%" /></a>
 
-<a>
-<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="45%" hspace="2%" /></a>
 
 </div>
