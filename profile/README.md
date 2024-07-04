@@ -22,6 +22,29 @@
 <br />
 <br />
 
+<h2 align="center">24-1 컨퍼런스</h2>
+<br />
+
+<a href="https://github.com/YBIGTA/24th-conference-yoso">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-yoso&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-yoso" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/24th-conference-yourtube">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-yourtube&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-yourtube" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/24th-conference-gustomate">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-gustomate&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-gustomate" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/24th-conference-text2storyboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-text2storyboard&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-text2storyboard" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/24th-conference-us">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-us&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-us" width="45%" hspace="2%" /></a>
+
+<br />
+<br />
+<br />
+
+
 <h2 align="center">24-1 정규학기 활동</h2>
 
 ### Data Analytics
