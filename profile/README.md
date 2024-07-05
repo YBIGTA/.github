@@ -18,11 +18,12 @@
 
 </div>
 
-<div>
 <br />
 <br />
+<br />
+<hr />
 
-<h2 align="center">24-1 컨퍼런스</h2>
+<h3 align="center">24-1 컨퍼런스</h3>
 <br />
 
 <a href="https://github.com/YBIGTA/24th-conference-yoso">
@@ -46,9 +47,9 @@
 <br />
 <br />
 <br />
+<hr />
 
-
-<h2 align="center">24-1 정규학기 활동</h2>
+<h3 align="center">24-1 정규학기 활동</h3>
 
 ### Data Analytics
 
@@ -64,13 +65,11 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-juga&show_owner=false&theme=transparent" alt="YBIGTA/24th-de-juga" width="45%" hspace="2%" /></a>
 
 <br />
-</div>
-
-<div>
 <br />
 <br />
+<hr />
 
-<h2 align="center">겨울방학 신입기수 프로젝트</h2>
+<h3 align="center">겨울방학 신입기수 프로젝트</h3>
 <br />
 
 <a href="https://github.com/YBIGTA/24th-project-mbti-prediction">
@@ -92,5 +91,3 @@
 <a href="https://github.com/YBIGTA/24th-project-what-the-food">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-project-what-the-food&show_owner=false&theme=transparent" alt="YBIGTA/24th-project-what-the-food" width="45%" hspace="2%" /></a>
 
-
-</div>
