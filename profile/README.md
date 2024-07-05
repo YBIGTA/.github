@@ -40,6 +40,9 @@
 <a href="https://github.com/YBIGTA/24th-conference-us">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-us&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-us" width="45%" hspace="2%" /></a>
 
+<a href="https://github.com/YBIGTA/24th-conference-tripbeats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-tripbeats&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-tripbeats" width="45%" hspace="2%" /></a>
+
 <br />
 <br />
 <br />
