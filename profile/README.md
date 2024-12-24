@@ -23,6 +23,35 @@
 <br />
 <hr />
 
+<h3 align="center">24-2 컨퍼런스</h3>
+<br />
+
+<a href="https://github.com/YBIGTA/25th-conference-EvenT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-EvenT&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-EvenT" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/25th-conference-NoticeHub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-NoticeHub&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-NoticeHub" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/25th-conference-PosePal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-PosePal&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-PosePal" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/25th-conference-ori-gogi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-ori-gogi&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-ori-gogi" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/25th-conference-SantaTellMe">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-SantaTellMe&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-SantaTellMe" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/ybigta_glucofit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=ybigta_glucofit&show_owner=false&theme=transparent" alt="YBIGTA/ybigta_glucofit" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/25th-conference-fakebusters">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-fakebusters&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-fakebusters" width="45%" hspace="2%" /></a>
+
+<br />
+<br />
+<br />
+<hr />
+
 <h3 align="center">여름방학 신입기수 프로젝트</h3>
 <br />
 
@@ -51,31 +80,6 @@
 <br />
 <hr />
 
-<h3 align="center">24-1 컨퍼런스</h3>
-<br />
-
-<a href="https://github.com/YBIGTA/24th-conference-yoso">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-yoso&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-yoso" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/24th-conference-yourtube">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-yourtube&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-yourtube" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/24th-conference-gustomate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-gustomate&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-gustomate" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/24th-conference-text2storyboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-text2storyboard&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-text2storyboard" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/24th-conference-us">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-us&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-us" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/24th-conference-tripbeats">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-conference-tripbeats&show_owner=false&theme=transparent" alt="YBIGTA/24th-conference-tripbeats" width="45%" hspace="2%" /></a>
-
-<br />
-<br />
-<br />
-<hr />
 
 <h3 align="center">24-1 정규학기 활동</h3>
 
