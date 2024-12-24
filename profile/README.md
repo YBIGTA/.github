@@ -41,9 +41,6 @@
 <a href="https://github.com/YBIGTA/25th-conference-SantaTellMe">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-SantaTellMe&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-SantaTellMe" width="45%" hspace="2%" /></a>
 
-<a href="https://github.com/YBIGTA/ybigta_glucofit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=ybigta_glucofit&show_owner=false&theme=transparent" alt="YBIGTA/ybigta_glucofit" width="45%" hspace="2%" /></a>
-
 <a href="https://github.com/YBIGTA/25th-conference-fakebusters">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-fakebusters&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-fakebusters" width="45%" hspace="2%" /></a>
 
