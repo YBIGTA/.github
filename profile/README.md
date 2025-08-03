@@ -29,7 +29,42 @@
 <a href="https://github.com/YBIGTA/26th-conference-VisionCourt">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-VisionCourt&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-VisionCourt" width="45%" hspace="2%" /></a>
 
+<a href="https://github.com/YBIGTA/26th-conference-Legent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-Legent&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-Legent" width="45%" hspace="2%" /></a>
 
+<a href="https://github.com/YBIGTA/26th-conference-OneMaSol">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-OneMaSol&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-OneMaSol" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-conference-MusicContextProtocol">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-MusicContextProtocol&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-MusicContextProtocol" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-conference-Criminalarm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-Criminalarm&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-Criminalarm" width="45%" hspace="2%" /></a>
+
+</div>
+
+<br />
+<br />
+<br /> 
+<hr />
+
+<h3 align="center">겨울방학 신입기수 프로젝트</h3>
+<br />
+
+<a href="https://github.com/YBIGTA/26th-project-JeMeChu">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-project-JeMeChu&show_owner=false&theme=transparent" alt="YBIGTA/26th-project-JeMeChu" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-project-IPO-ValueX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-project-IPO-ValueX&show_owner=false&theme=transparent" alt="YBIGTA/26th-project-IPO-ValueX" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-project-UniRent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-project-UniRent&show_owner=false&theme=transparent" alt="YBIGTA/26th-project-UniRent" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-project-BookProfile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-project-BookProfile&show_owner=false&theme=transparent" alt="YBIGTA/26th-project-BookProfile" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-project-MindLog">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-project-MindLog&show_owner=false&theme=transparent" alt="YBIGTA/26th-project-MindLog" width="45%" hspace="2%" /></a>
 
 </div>
 
