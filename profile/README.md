@@ -11,7 +11,7 @@
 
 <br />
 
-[**Website**](https://ybigta.org) •
+[**Website**](https://yonseibigdata.notion.site) •
 [**Github**](https://www.github.com/YBIGTA) •
 [**Instagram**](https://instagram.com/yonsei_ybigta) •
 [**YouTube**](https://www.youtube.com/@ybigta7189)
@@ -20,7 +20,22 @@
 
 <br />
 <br />
+<br /> 
+<hr />
+
+<h3 align="center">25-1 컨퍼런스</h3>
 <br />
+
+<a href="https://github.com/YBIGTA/26th-conference-VisionCourt">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-VisionCourt&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-VisionCourt" width="45%" hspace="2%" /></a>
+
+
+
+</div>
+
+<br />
+<br />
+<br /> 
 <hr />
 
 <h3 align="center">24-2 컨퍼런스</h3>
@@ -70,26 +85,3 @@
 
 <a href="https://github.com/YBIGTA/25th-project-OutfitToCafe">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-project-OutfitToCafe&show_owner=false&theme=transparent" alt="YBIGTA/25th-project-OutfitToCafe" width="45%" hspace="2%" /></a>
-
-
-<br />
-<br />
-<br />
-<hr />
-
-
-<h3 align="center">24-1 정규학기 활동</h3>
-
-### Data Analytics
-
-<a href="https://github.com/YBIGTA/24th-da-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-da-projects&show_owner=false&theme=transparent" alt="YBIGTA/24th-da-projects" width="45%" hspace="2%" /></a>
-
-### Data Engineering
-
-<a href="https://github.com/YBIGTA/24th-de-highlighter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-highlighter&show_owner=false&theme=transparent" alt="YBIGTA/24th-de-highlighter" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/24th-de-juga">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=24th-de-juga&show_owner=false&theme=transparent" alt="YBIGTA/24th-de-juga" width="45%" hspace="2%" /></a>
-
