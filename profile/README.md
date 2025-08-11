@@ -38,8 +38,8 @@
 <a href="https://github.com/YBIGTA/26th-conference-MusicContextProtocol">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-MusicContextProtocol&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-MusicContextProtocol" width="45%" hspace="2%" /></a>
 
-<a href="https://github.com/YBIGTA/26th-conference-Criminalarm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-Criminalarm&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-Criminalarm" width="45%" hspace="2%" /></a>
+<a href="https://github.com/YBIGTA/26th-conference-Plantmate">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-conference-Plantmate&show_owner=false&theme=transparent" alt="YBIGTA/26th-conference-Plantmate" width="45%" hspace="2%" /></a>
 
 </div>
 
