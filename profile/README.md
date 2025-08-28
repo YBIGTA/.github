@@ -23,6 +23,56 @@
 <br /> 
 <hr />
 
+<h3 align="center">여름방학 신입기수 프로젝트</h3>
+<br />
+
+<a href="https://github.com/YBIGTA/27th-project-kakao">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-project-kakao&show_owner=false&theme=transparent" alt="YBIGTA/27th-project-kakao" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/27th-project-game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-project-game&show_owner=false&theme=transparent" alt="YBIGTA/27th-project-game" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/27th-project-speech2sql">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-project-speech2sql&show_owner=false&theme=transparent" alt="YBIGTA/27th-project-speech2sql" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/27th-project-feedback">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-project-feedback&show_owner=false&theme=transparent" alt="YBIGTA/27th-project-feedback" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/27th-project-multimodal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-project-multimodal&show_owner=false&theme=transparent" alt="YBIGTA/27th-project-multimodal" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/27th-project-baekjoon">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-project-baekjoon&show_owner=false&theme=transparent" alt="YBIGTA/27th-project-baekjoon" width="45%" hspace="2%" /></a>
+
+</div>
+
+<br />
+<br />
+<br /> 
+<hr />
+
+<h3 align="center">여름방학 기존기수 토이 프로젝트</h3>
+<br />
+
+<a href="https://github.com/YBIGTA/26th-summer-YbigtaSearchAgent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-summer-YbigtaSearchAgent&show_owner=false&theme=transparent" alt="YBIGTA/26th-summer-YbigtaSearchAgent" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-summer-ResearchAgent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-summer-ResearchAgent&show_owner=false&theme=transparent" alt="YBIGTA/26th-summer-ResearchAgent" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-summer-NotebookLocal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-summer-NotebookLocal&show_owner=false&theme=transparent" alt="YBIGTA/26th-summer-NotebookLocal" width="45%" hspace="2%" /></a>
+
+<a href="https://github.com/YBIGTA/26th-summer-MedicationAgent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=26th-summer-MedicationAgent&show_owner=false&theme=transparent" alt="YBIGTA/26th-summer-MedicationAgent" width="45%" hspace="2%" /></a>
+
+</div>
+
+<br />
+<br />
+<br /> 
+<hr />
+
 <h3 align="center">25-1 컨퍼런스</h3>
 <br />
 
@@ -93,30 +143,3 @@
 
 <a href="https://github.com/YBIGTA/25th-conference-fakebusters">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-conference-fakebusters&show_owner=false&theme=transparent" alt="YBIGTA/25th-conference-fakebusters" width="45%" hspace="2%" /></a>
-
-<br />
-<br />
-<br />
-<hr />
-
-<h3 align="center">여름방학 신입기수 프로젝트</h3>
-<br />
-
-<a href="https://github.com/YBIGTA/25th-project-BubbleFreeNewsletter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-project-BubbleFreeNewsletter&show_owner=false&theme=transparent" alt="YBIGTA/25th-project-BubbleFreeNewsletter" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/25th-project-BitcoinPredictor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-project-BitcoinPredictor&show_owner=false&theme=transparent" alt="YBIGTA/25th-project-BitcoinPredictor" width="45%" hspace="2%" /></a>
-
-<p></p>
-
-<a href="https://https://github.com/YBIGTA/25th-project-EverytimeAnalyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-project-EverytimeAnalyzer&show_owner=false&theme=transparent" alt="YBIGTA/25th-project-EverytimeAnalyzer" width="45%" hspace="2%" /></a>
-
-<a href="https://github.com/YBIGTA/25th-project-InsideOutDJ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-project-InsideOutDJ&show_owner=false&theme=transparent" alt="YBIGTA/25th-project-InsideOutDJ" width="45%" hspace="2%" /></a>
-
-<p></p>
-
-<a href="https://github.com/YBIGTA/25th-project-OutfitToCafe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=25th-project-OutfitToCafe&show_owner=false&theme=transparent" alt="YBIGTA/25th-project-OutfitToCafe" width="45%" hspace="2%" /></a>
