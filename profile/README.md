@@ -35,7 +35,7 @@
 <a href="https://github.com/YBIGTA/27th-conference-robo404">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-conference-robo404&show_owner=false&theme=transparent" alt="YBIGTA/27th-conference-robo404" width="45%" hspace="2%" /></a>
 
-<a href="https://github.com/YBIGTA/27th-conference-fittingAI">
+<a href="https://github.com/seojeong0120/recommenDA">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YBIGTA&repo=27th-conference-fittingAI&show_owner=false&theme=transparent" alt="YBIGTA/27th-conference-fittingAI" width="45%" hspace="2%" /></a>
 
 <a href="https://github.com/YBIGTA/27th-conference-deundeun">
